@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript, React.js, TypeScript
-
+- [Notion](https://second-beak-74f.notion.site/a30da8cb0b694b74863f1aa8418b617a)
 <!--
 **gogoyong/gogoyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
